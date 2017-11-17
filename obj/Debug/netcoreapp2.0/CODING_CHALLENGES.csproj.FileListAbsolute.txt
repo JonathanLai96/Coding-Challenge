@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\bin\Debug\netcoreapp2.0\CODING_CHALLENGES.deps.json
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\bin\Debug\netcoreapp2.0\CODING_CHALLENGES.runtimeconfig.json
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\bin\Debug\netcoreapp2.0\CODING_CHALLENGES.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\bin\Debug\netcoreapp2.0\CODING_CHALLENGES.dll
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\bin\Debug\netcoreapp2.0\CODING_CHALLENGES.pdb
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\obj\Debug\netcoreapp2.0\CODING_CHALLENGES.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\obj\Debug\netcoreapp2.0\CODING_CHALLENGES.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\obj\Debug\netcoreapp2.0\CODING_CHALLENGES.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\obj\Debug\netcoreapp2.0\CODING_CHALLENGES.dll
+C:\Users\Jonathan\Desktop\CODING_CHALLENGES\obj\Debug\netcoreapp2.0\CODING_CHALLENGES.pdb
